@@ -1,0 +1,8 @@
+additionalProperties:
+  typescriptThreePlus: true
+  supportsES6: true
+templateDir: /local/templates
+files:
+  apis.mustache:
+    templateType: API
+    destinationFilename: .ts
